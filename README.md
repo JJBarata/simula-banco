@@ -1,13 +1,13 @@
 ## Simula Banco
 
-O "Simula Banco" é um aplicativo desenvolvido em Python, exclusivamente para treino da linguagem usando
-orientação a objetos.
+O "Simula Banco" utiliza uma classe Conta exclusivamente para treino da linguagem usando
+orientação a objetos (classe, métodos, métodos "privados", getters, setters, etc.
 
-O aplicativo ainda está em desenvolvimento...
+Caso queira aprimorar para seus estudos, fique a vontade.
 
 Obrigado.
 *******************************************************************************************************
-Orientação a objetos:
+Orientação a objetos (básico):
 
 Exemplo de classe com funções, retirado do arquivo "conta.py":
 
